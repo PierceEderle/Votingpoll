@@ -4,8 +4,8 @@ function clickA(elm) {
     elm.dispatchEvent(evObj);
 }
 
-var selectDrew = function() {$("#PDI_answer45218547").click();};
-var selectSam = function() {$("#PDI_answer45218549").click();};
+var selectDrew = function() {$("#PDI_answer9880608").click();};
+var selectSam = function() {$("#PDI_answer9880608").click();};
 var clickVote = function() {clickA(document.getElementById("pd-vote-button9875296"));};
 var goBack = function() {PDV_go9875296();};
 
